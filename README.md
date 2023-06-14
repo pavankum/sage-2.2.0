@@ -5,9 +5,9 @@ This repository contains a refit of Sage version 2.1.0, using the same training 
 In this iteration, version 2.2.0, we have utilized these specific regularization scales during valence parameter optimization, 
 ```
 priors
-   Angles/Angle/k :  5.0
+   Angles/Angle/k :  20.0
    Angles/Angle/angle :  1.0
-   Bonds/Bond/k :  10.0
+   Bonds/Bond/k :  20.0
    Bonds/Bond/length :  0.01
    ProperTorsions/Proper/k :  5.0
    ImproperTorsions/Improper/k :  5.0
